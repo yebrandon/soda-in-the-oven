@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sodaintheoven.online/static/css/main.764fdc66.chunk.css",
-    "main.js": "/sodaintheoven.online/static/js/main.1f947b33.chunk.js",
-    "main.js.map": "/sodaintheoven.online/static/js/main.1f947b33.chunk.js.map",
+    "main.js": "/sodaintheoven.online/static/js/main.58490324.chunk.js",
+    "main.js.map": "/sodaintheoven.online/static/js/main.58490324.chunk.js.map",
     "runtime-main.js": "/sodaintheoven.online/static/js/runtime-main.bfdef384.js",
     "runtime-main.js.map": "/sodaintheoven.online/static/js/runtime-main.bfdef384.js.map",
-    "static/js/2.f96721e7.chunk.js": "/sodaintheoven.online/static/js/2.f96721e7.chunk.js",
-    "static/js/2.f96721e7.chunk.js.map": "/sodaintheoven.online/static/js/2.f96721e7.chunk.js.map",
+    "static/js/2.99a023e1.chunk.js": "/sodaintheoven.online/static/js/2.99a023e1.chunk.js",
+    "static/js/2.99a023e1.chunk.js.map": "/sodaintheoven.online/static/js/2.99a023e1.chunk.js.map",
     "index.html": "/sodaintheoven.online/index.html",
-    "precache-manifest.65a29359ad8be55d60618ebd20dd8730.js": "/sodaintheoven.online/precache-manifest.65a29359ad8be55d60618ebd20dd8730.js",
+    "precache-manifest.de7ef660a5633794b4afcc63df937f18.js": "/sodaintheoven.online/precache-manifest.de7ef660a5633794b4afcc63df937f18.js",
     "service-worker.js": "/sodaintheoven.online/service-worker.js",
     "static/css/main.764fdc66.chunk.css.map": "/sodaintheoven.online/static/css/main.764fdc66.chunk.css.map",
-    "static/js/2.f96721e7.chunk.js.LICENSE.txt": "/sodaintheoven.online/static/js/2.f96721e7.chunk.js.LICENSE.txt"
+    "static/js/2.99a023e1.chunk.js.LICENSE.txt": "/sodaintheoven.online/static/js/2.99a023e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bfdef384.js",
-    "static/js/2.f96721e7.chunk.js",
+    "static/js/2.99a023e1.chunk.js",
     "static/css/main.764fdc66.chunk.css",
-    "static/js/main.1f947b33.chunk.js"
+    "static/js/main.58490324.chunk.js"
   ]
 }

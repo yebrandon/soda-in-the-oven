@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sodaintheoven.online/precache-manifest.65a29359ad8be55d60618ebd20dd8730.js"
+  "/sodaintheoven.online/precache-manifest.de7ef660a5633794b4afcc63df937f18.js"
 );
 
 self.addEventListener('message', (event) => {
