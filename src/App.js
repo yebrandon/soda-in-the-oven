@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import NavBar from './components/NavBar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import { Home } from './components/pages/Home';
 import { About } from './components/pages/About';
 
 function App() {
 	return (
 		<div>
-			<HashRouter basename='/'>
+			<Router basename='/'>
 				<div class='navContainer'>
 					<h1>Soda in the Oven Online</h1>
 					<NavBar></NavBar>
@@ -18,7 +18,7 @@ function App() {
 					<Route path='/home' component={Home} />
 					<Route path='/about' component={About} />
 				</Switch>
-			</HashRouter>
+			</Router>
 		</div>
 	);
 }
