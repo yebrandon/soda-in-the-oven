@@ -8,7 +8,7 @@ import { About } from './components/pages/About';
 function App() {
 	return (
 		<div>
-			<Router>
+			<Router basename={`${process.env.PUBLIC_URL}/`}>
 				<div class='navContainer'>
 					<h1>Soda in the Oven Online</h1>
 					<NavBar></NavBar>
