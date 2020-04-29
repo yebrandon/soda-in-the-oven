@@ -8,7 +8,7 @@ import { About } from './components/pages/About';
 function App() {
 	return (
 		<div>
-			<Router basename={`${process.env.PUBLIC_URL}/`}>
+			<HashRouter basename='/'>
 				<div class='navContainer'>
 					<h1>Soda in the Oven Online</h1>
 					<NavBar></NavBar>
@@ -18,7 +18,7 @@ function App() {
 					<Route path='/home' component={Home} />
 					<Route path='/about' component={About} />
 				</Switch>
-			</Router>
+			</HashRouter>
 		</div>
 	);
 }
