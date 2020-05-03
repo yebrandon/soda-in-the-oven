@@ -2,7 +2,7 @@ import React, { useState, useContext, useEffect } from 'react';
 import { GlobalContext } from '../context/GlobalState';
 import PropTypes from 'prop-types';
 
-const Producer = (props) => {
+const Oven = (props) => {
 	const [numUnits, setNumUnits] = useState(0);
 	const [price, setPrice] = useState(props.price);
 	const { numSodas, addSodas, removeSodas, addCakes } = useContext(
@@ -54,6 +54,6 @@ const Producer = (props) => {
 	);
 };
 
-Producer.propTypes = {};
+Oven.propTypes = {};
 
-export default Producer;
+export default Oven;
